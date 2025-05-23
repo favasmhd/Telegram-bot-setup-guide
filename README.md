@@ -1,6 +1,6 @@
 # Telegram Bot Setup Guide
 
-A simple and beginner-friendly guide to help you create a Telegram bot and get your chat ID. This is especially useful for projects like the [KTU Revaluation Notifier Bot](https://github.com/favasmhd/ktu-revalbot) that send automated messages via Telegram.
+A simple and beginner-friendly guide to help you create a Telegram bot and get your chat ID. This is especially useful for projects like the [KTU Revaluation Notifier Bot](https://github.com/favasmhd/KTU-Revaluation-Notifier-Bot) that send automated messages via Telegram.
 
 ---
 
